@@ -1,0 +1,21 @@
+transaction_id,date,description,category,amount,account_type
+1,2023-01-01,Salary Deposit,Income,2500,Checking
+2,2023-01-02,Rent Payment,Housing,-1200,Checking
+3,2023-01-03,Supermarket,Groceries,-150,Checking
+4,2023-01-04,Coffee Shop,Dining,-8,Checking
+5,2023-01-05,Electric Bill,Utilities,-60,Checking
+6,2023-01-06,Online Shopping,Shopping,-80,Credit
+7,2023-01-07,Car Insurance,Auto,-100,Checking
+8,2023-01-10,Spotify Subscription,Entertainment,-9.99,Checking
+9,2023-01-12,ATM Withdrawal,Misc,-100,Checking
+10,2023-01-15,Stock Dividend,Income,30,Checking
+11,2023-01-15,Transfer to Savings,Transfer,-200,Checking
+12,2023-01-15,Transfer from Checking,Transfer,200,Savings
+13,2023-01-18,Gas Station,Auto,-45,Checking
+14,2023-01-20,Bonus Payment,Income,1000,Checking
+15,2023-01-22,Restaurant,Dining,-35,Credit
+16,2023-01-28,Amazon Purchase,Shopping,-60,Credit
+17,2023-01-29,Phone Bill,Utilities,-50,Checking
+18,2023-02-01,Salary Deposit,Income,2500,Checking
+19,2023-02-02,Rent Payment,Housing,-1200,Checking
+20,2023-02-03,Groceries,Groceries,-130,Checking

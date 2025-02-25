@@ -1,0 +1,15 @@
+# Example configuration for the financial assistant
+
+database:
+  uri: "postgresql://user:password@localhost:5432/finance_db"
+
+api:
+  market_data_endpoint: "https://api.example.com/market"
+  user_data_source: "path/to/user_data.csv"
+
+logging:
+  level: INFO
+
+dataset_paths:
+  user_transactions: "data/raw/user_transactions.csv"
+  stock_prices: "data/raw/stock_prices.csv"
